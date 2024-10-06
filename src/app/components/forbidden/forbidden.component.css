@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(114, 39, 16);; /* Roșu */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    transform: scale(1.03);
+}
